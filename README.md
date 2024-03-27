@@ -1,1 +1,3 @@
-# android-website
+# Dominick's Android Server Website
+
+<p>This is a simple website that is running on a Note 9 Android phone. I installed ubuntu on it and used that to run this simple server and website. Fun project that makes me realize that all my devices will be serving a function eventually. My old OnePlus 5T is a security camera. No reason I couldn't have it also function as a server too! Next step will be to see about some kind of clustering... although getting docker running on it was very problematic. There are several repos for having an alpine VM running on android with docker inside of it. But they seema  bit outdated and don't seem to work now. Maybe this would be a good change for me to see if I can get them running and make a pull request to the repo.</p>
